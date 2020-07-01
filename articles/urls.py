@@ -2,7 +2,8 @@ from django.urls import path
 
 from . import views
 
-# app_name = articles (just in case in the future I have named urls that are equal.
+#(just in case in the future I have named urls that are equal.
+#app_name = 'articles'
 
 urlpatterns = [
     path('', views.article_list, name="article_list"),
