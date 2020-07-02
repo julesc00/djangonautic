@@ -32,3 +32,17 @@ A
 LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
 @
 accounts/urls.py,6/0/605dfdd3d50bf83b921d6fff90cbd98052a71d27
+_
+/articles/templates/articles/article_detail.html,0/d/0d33b1773a854ec2fe8580d70afb7e64a43e96b7
+W
+'accounts/templates/accounts/signup.html,3/7/377a6894d21d217a61c223f7e5871e8d39bbfc9e
+B
+accounts/models.py,6/1/61552fe05711cbaa3244c18deedf1d76e08d2649
+V
+&accounts/templates/accounts/login.html,2/e/2efb935804e73168608511b9e54627f2f98d0b0f
+A
+articles/forms.py,a/a/aa291e35fd33e72e9f8063651a3fa4bf4ba53d9d
+A
+accounts/views.py,b/a/ba7590f6f358542018b74d55cb2e357917bab56c
+_
+/articles/templates/articles/article_create.html,e/6/e678b98c1248d70d38acb52d86f3fbefa80ed6be
